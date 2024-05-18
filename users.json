@@ -1,0 +1,16 @@
+{
+    "users": [
+        {
+            "email": "correo@correo.net",
+            "password": "$2b$12$wWbswdkiWOaS4wriwBW8FOeoKguRlxr07MfzHsLjEsYmR3hYejzKO"
+        },
+        {
+            "email": "tommy@correo.com",
+            "password": "$2b$12$MkB7reJl38cDb1vZqAPDnO6FvM9xKsJ0vRMlRskSGAmvJcKpYCR2m"
+        },
+        {
+            "email": "mail@mail.com",
+            "password": "$2b$12$ui1urvuj9FX7k..nD2r9heaLWgvfxsId4t93QhEAsCc/fl5mHe9Uu"
+        }
+    ]
+}
